@@ -91,12 +91,6 @@ runs/detect/predict/
 
 ---
 
-## 📸 Sample Output
-
-(Add screenshots or video here)
-
----
-
 ## 📁 Project Structure
 
 ```
